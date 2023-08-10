@@ -83,9 +83,53 @@ Utilize GitBash para executar os comandos.
     Dentro dessa pasta você poderá colocar seus arquivos a serem enviados para seu repositório
 
 <br>
+<br>
+
+- 2 - Git clone & pull
     - git pull
+
+    Abra o Gitbash dentro da pasta de seu repositório, no mesmo local que a pasta oculta .git
+
+    Caso não veja a pasta .git tenha certeza que a opção de itens ocultos está ativada
+    ![Screenshot_5](https://github.com/IgorHenriqueG/Git/assets/111847209/2d8ddcf1-8dbd-4790-9355-5487f1e4de68)
+
+    No mesmo local que sua .git abra o GitBash com o botão direito
+
+    ![Screenshot_6](https://github.com/IgorHenriqueG/Git/assets/111847209/b8ce8597-12e7-410f-8e10-a52de3c258f7)
+
+    Para atualizar de seu repositório git para seu computador utilize o commando git pull, este comando puxa somente itens que você tem de diferentes entre seu repositório e seu computador
+
+    ![Screenshot_7](https://github.com/IgorHenriqueG/Git/assets/111847209/d5bc972d-89b1-471c-ad98-fb51ed469248)
 
 <br>
 <hr>
 <br>
 
+```diff
+- Os comandos de push devem ser usados em ordem
+```
+
+- 3 - git push
+    - git add .
+
+    Para enviar arquivos de seu computador ao repositório git utilize git add . no mesmo local que a pasta oculta .git
+
+    No mesmo local que sua .git abra o GitBash com o botão direito
+    ![Screenshot_6](https://github.com/IgorHenriqueG/Git/assets/111847209/b8ce8597-12e7-410f-8e10-a52de3c258f7)
+
+    Primeiramente utilize o comando git add .
+    ![Screenshot_8](https://github.com/IgorHenriqueG/Git/assets/111847209/6438b03d-f616-4bca-95cc-0db99f78b61a)
+
+    - git commit -m " "
+
+    Após utilize o comando git commit -m " " para adicionar uma mensagem a push de seu repositório
+    ![Screenshot_10](https://github.com/IgorHenriqueG/Git/assets/111847209/b7ef71ab-a562-4fe4-8346-7c1903cf8154)
+
+    - git push
+
+    Utilize o comando git push quando quiser enviar os arquivos de seu pc ao repositório git
+    ![Screenshot_11](https://github.com/IgorHenriqueG/Git/assets/111847209/3677ceed-1c52-42a5-864a-b2d32b124c0a)
+
+```diff
+- Os comandos de push devem ser usados em ordem
+```
