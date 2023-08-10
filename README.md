@@ -75,6 +75,7 @@ Utilize GitBash para executar os comandos.
     Com o GitBash aberto utilize o comando git clone e cole sua url
 
     - git clone (url)
+    
     ![Screenshot_3](https://github.com/IgorHenriqueG/Git/assets/111847209/413a0a0f-231b-4315-95c3-3b67d332741d)
 
     Após concluido será criada uma pasta com o nome de seu repositório
